@@ -1,3 +1,8 @@
+*** NOTE This implementation of the stream connector does not support containers ***
+*** Instead use https://github.com/beirbear/HarmonicIO/tree/CI_v0_r1/stream_connector ***
+
+
+
 How to stream the data?
 Please note that stream connector require urllib3.
 
